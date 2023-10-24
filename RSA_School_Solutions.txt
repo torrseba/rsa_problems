@@ -1,0 +1,10 @@
+Problem1: UDCTF{y3a_b0i_b4by_RSA!}
+Problem2: UDCTF{pr1m3_f4ct0r_the1f!}
+Problem3: UDCTF{3uc1id_th4_60at}
+Problem4: 
+Problem5: UDCTF{m0d_mult1pl1c4tiv3_inv3r5e_nd_57uff}
+Problem6: _
+Problem7: UDCTF{0k_m4yb3_d0nt_u5e_e_3qu4l5_3}
+Problem8: UDCTF{k33p_c4lm_4nd_u5e_CRT}
+Problem9: UDCTF{F3rma7_c4n_sur3_fac70r!}
+Problem10: UDCTF{4n_RSA_5ch0ol_gr4dua73!!}

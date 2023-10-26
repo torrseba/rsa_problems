@@ -1,7 +1,7 @@
 from Crypto.Util.number import *
 e=65537
 your_e = getPrime(20)
-msg=bytes_to_long(b'UDCTF{m0d_mult1pl1c4tiv3_inv3r5e_nd_57uff}')
+msg=bytes_to_long(b'UDCTF{REDACTED}')
 p=getPrime(512)
 q=getPrime(512)
 n=p*q

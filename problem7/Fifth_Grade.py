@@ -1,5 +1,5 @@
 from Crypto.Util.number import *
-msg=b"UDCTF{0k_m4yb3_d0nt_u5e_e_3qu4l5_3}"
+msg=b"UDCTF{REDACTED}"
 pt=bytes_to_long(msg)
 p=getPrime(1024)
 q=getPrime(1024)

@@ -8,7 +8,7 @@ for _ in range(random.randint(500,10000)):
 N=p*q
 msg="UDCTF{REDACTED}"
 pt=bytes_to_long(msg)
-e=65537
+e=655
 ct=pow(pt,e,N)
 print(N)
 print(e)

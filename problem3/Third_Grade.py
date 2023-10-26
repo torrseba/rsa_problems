@@ -4,7 +4,7 @@ q=getPrime(512)
 n=p*q
 e1=71
 e2=101
-msg=bytes_to_long(b'UDCTF{3uc1id_th4_60at}')
+msg=bytes_to_long(b'UDCTF{REDACTED}')
 c1 = pow(msg, e1, n)
 c2 = pow(msg, e2, n)
 print(n)
